@@ -2,4 +2,4 @@ server:
   port: ${PORT:8889}
   servlet:
     context-path: /CRUD
-message: Consumer configuration server is alive!
+message: Servicio crud
