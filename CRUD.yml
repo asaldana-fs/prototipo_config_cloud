@@ -1,4 +1,4 @@
 server:
-  port: ${PORT:8890}
-
+  servlet:
+    context-path: /CRUD
 message: Consumer configuration server is alive!
