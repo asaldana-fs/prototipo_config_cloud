@@ -1,5 +1,2 @@
 server:
   port: ${PORT:8889}
-  servlet:
-    context-path: /CRUD
-message: Servicio crud
